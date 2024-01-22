@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   visitor count<br>
-  <img src="https://profile-counter.glitch.me/quillfires/count.svg" />
+  <a href=#><img src="https://profile-counter.glitch.me/quillfires/count.svg" /></a>
 </p>
