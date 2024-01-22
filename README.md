@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<a href=#><img src="contributions.svg"></a>
+[![contributions](contributions.svg)](https://github.com/quillfires)
 
 
 
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   visitor count<br>
-  <a href=#><img src="https://profile-counter.glitch.me/quillfires/count.svg" /></a>
+  <a href="https://github.com/quillfires"><img src="https://profile-counter.glitch.me/quillfires/count.svg" /></a>
 </p>
