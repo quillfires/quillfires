@@ -74,8 +74,7 @@ securepasswordgenerator -p fort_knox
 ---
 
 ## 📫 Contact
-
-- Email: fayaz.quill@gmail.com
+- [![Email](https://img.shields.io/badge/Email-fayaz.quill@gmail.com-red?style=flat\&logo=gmail\&logoColor=white)](mailto:fayaz.quill@gmail.com)
 - PyPI: [bml-connect-python](https://pypi.org/project/bml-connect-python/) · [securepasswordgenerator](https://pypi.org/project/securepasswordgenerator/)
 
 ---
